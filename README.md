@@ -1,4 +1,5 @@
 # Personal Finance Analyzer (MCP Server)
+![Demo](demo.gif)
 
 An [MCP](https://modelcontextprotocol.io) server that turns a transactions CSV into a set of
 analysis tools an LLM can call directly. Ask "what was unusual about my December spending?" in
