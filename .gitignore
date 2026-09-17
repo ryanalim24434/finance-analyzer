@@ -1,0 +1,4 @@
+.venv/
+transactions.csv
+__pycache__/
+*.pyc
